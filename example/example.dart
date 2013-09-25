@@ -1,8 +1,5 @@
 import 'package:exo3/exo3.dart';
 
-
-
-
 void main() {
   
   double width = 10.0 ;
@@ -12,8 +9,6 @@ void main() {
   double area = air(width, height);
   double speed = vit(distance, time);
 
-  
-  
   print('Ex. 2.1');
   print('si la largeur est 10 m et la longueur est 20 m, alors :');
   print('aire=$area mêtres carrés');

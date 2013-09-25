@@ -1,5 +1,3 @@
-
-
 part of exo3;
 
 double air (double width, double height) {
